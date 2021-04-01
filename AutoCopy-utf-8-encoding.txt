@@ -1,5 +1,5 @@
 (***********************
-AutoCopy,  Copyright © 2016 - 2030 by Steve Thompson.All Rights Reserved.  Thou shalt not steal.    (Note: this file is plain text and encoded in utf-8 so text    will appear correct when viewing on Github. To run the script, it must be saved    in Script Editor as a script with extension '.scpt', or as an application.)
+AutoCopy,  Copyright © 2016 - 2030 by Steve Thompson.MIT License.    (Note: this file is plain text and encoded in utf-8 so text    will appear correct when viewing on Github. To run the script, it must be saved    in Script Editor as a script with extension '.scpt', or as an application.)
 
 Makes a backup copy of a file or folder you choose, at a frequency you choose.  
 It places all the backups in a folder in the same location as the original item,  
